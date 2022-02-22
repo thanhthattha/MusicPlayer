@@ -29,11 +29,10 @@ const app = {
   // config: JSON.parse(localStorage.getItem(PlAYER_STORAGE_KEY)) || {},
   songs: [
     {
-      name: "Flaming",
-      singer: "Sungha Jung",
-      path: "https://tainhac123.com/listen/flaming-sungha-jung.WzA9DHHUBbPN.html",
-      image:
-        "https://graphicriver.img.customer.envatousercontent.com/files/33599962/Flaming_Skull_wings_fair_590.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=4abe82ea282efb96062aed1caec13a2d",
+      name: "Bad Blood",
+      singer: "Taylor Swift",
+      path: "https://aredir.nixcdn.com/Unv_Audio126/BadBlood-TaylorSwift-5810007.mp3?st=a1K4Up-UpB9mBSA-7GuX1g&e=1645550339",
+      image: "https://cdn.stereo.vn/uploads/2015/05/CE1XM4kUIAAk14G.jpg",
     },
     {
       name: "I'm Yours",
